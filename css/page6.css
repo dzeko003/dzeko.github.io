@@ -1,0 +1,56 @@
+.kk{
+    width: 100%
+}
+h2{
+    font-size: 40px;
+    position: absolute;
+    top: 25px;
+    left: 40px;
+    color: rgb(223, 51, 8);
+}
+span{
+    color: white;
+}
+nav ul li{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    padding: 0px 4px
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+nav ul{
+    /* border: 1px solid black; */
+    width: 55%;
+    position: absolute;
+    left: 390px;
+    display: inline-block;
+    top: 40px;
+}
+nav ul li:hover a{
+    border: 1px solid rgb(224, 11, 11);
+}
+h1{
+    color: white;
+    position: absolute;
+    left:390px;
+    top: 500px;
+}
+p{
+    color: white;
+    position: absolute;
+    left:280px;
+    top: 540px;
+    font-size: 24px;
+}
+.lien{
+    border: 1px solid black;
+    position: absolute;
+    top: 400px;    
+}
+.lien ul li a{
+    color: white;
+}
+

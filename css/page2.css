@@ -1,0 +1,66 @@
+body{
+    background-image: url("../Images/Bienvenue.jpg");
+    /* background-repeat: no-repeat; */
+    color: white;
+    
+}
+h1{
+    position: absolute;
+    left: 120px;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    text-decoration: none;
+    margin: 5px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+nav ul li:hover a{
+    background-color: rgb(8, 250, 8)
+}
+.search{
+    /* border: 1px solid black; */
+    width: 20%;
+    height: 60px;
+    position: absolute;
+    top: 50px;
+    right: 30px;
+}
+.toto{
+    position: absolute;
+    top: 120px;
+    right: 30px;
+    width: 20%;
+}
+/* .select{
+    background-color: white;
+    display: inline-block;
+    width: 20%;
+    height: 50px;
+    border: 1px solid black;
+    position: absolute;
+    left: 75%;
+    top: 110px;
+} */
+.section{
+    color: black;
+}
+.a,.b,.c,.d,.e,.f,.g,.h,.i{
+    background-color: white;
+    display: inline-block;
+    width: 30%;
+    margin-top: 15px;
+    height: 500px;
+    margin: 7px;
+    vertical-align: top;
+}
+.lien{
+    border: 1px solid black;
+    position: absolute;
+    top: 1800px;
+    
+    
+}

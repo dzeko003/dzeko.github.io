@@ -1,0 +1,131 @@
+body{
+    height: 1600px;
+}
+.logo{
+    width: 7%;
+    position: absolute;
+    left: 170px;
+    top: 43px;
+}
+.one{
+    background-color: rgba(12, 51, 45, 0.986);
+    width: 99%;
+    height: 140px;
+    position: absolute;
+}
+.span1{
+    color: orangered;
+}
+.span2{
+    color: white;
+}
+h1{
+    position: absolute;
+    left: 267px;
+    top: 36px
+}
+.p1{
+    position: absolute;
+    left: 267px;
+    top: 79px;
+    color: white;
+}
+nav{
+    background-color: rgb(59, 9, 9);
+    position: absolute;
+    top:130px;
+    width: 99%;
+    height: 47px;
+    /* border: 1px solid black; */
+}
+nav ul li{
+    list-style-type: none;
+    text-decoration: none;
+    display: inline-block;
+    padding: 0px 25px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    /* display: block */
+}
+
+nav ul li:hover a{
+    background-color: orangered;
+    padding: 15px;
+}
+nav ul{
+    position: absolute;
+    left: 110px;
+}
+.logo2{
+    width: 99%;
+    height: 340px;
+    position: absolute;
+    top: 175px;
+}
+#logo2{
+    width: 85%;
+    height: 420px;
+    position: absolute;
+    left: 50px;
+    top: 15px;
+}
+.three{
+    background-color: white;
+    height: 1000px;
+    position: absolute;
+    left: 180px;
+    width: 60%;
+    top: 300px;
+    right: 35px;
+     border: 1px solid black; 
+}
+.bloc1{
+    /* border: 1px solid black; */
+    width: 40%;
+    position: absolute;
+    top:750px;
+    padding: 0px 15px;
+}
+.bloc2{
+    /* border: 1px solid black; */
+    width: 40%;
+    left: 330px;
+    position: absolute;
+    top: 750px;
+}
+.G{
+    position: absolute;
+    top: 480px;
+    width: 90%;
+    padding: 0px 15px;
+}
+.four{
+    background-color: white;
+    position: absolute;
+    top:720px;
+    width: 20%;
+    height: 360px;
+    left: 790px;
+    padding: 0px 7px;
+    border: 1px solid black;
+}
+.foot{
+    background-color:  rgba(12, 51, 45, 0.986);
+    height: 130px;
+    width: 100%;
+    position: absolute;
+    top: 1500px;
+}
+.fin{
+    text-align: center;
+    line-height: 90px;
+    color: white;
+}
+.lien{
+    border: 1px solid black;
+    position: absolute;
+    top: 1090px;
+    right: 12px;   
+}

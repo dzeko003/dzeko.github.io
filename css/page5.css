@@ -1,0 +1,127 @@
+body{
+    height: 1700px;
+}
+.menu{
+    background-color: rgb(19, 18, 18);
+    width: 20%;
+    height: 1350px;
+    border: 10px solid black;
+    color: white;
+   
+}
+.logo{
+    width: 7%;
+    position: absolute;
+    left: 74px;
+    top: 40px;
+}
+figcaption{
+    position: absolute;
+    left: 60px;
+    top: 120px;
+}
+.p2{
+    position: absolute;
+    left: 130px;
+    top: 170px;
+}
+.p1{
+    position: absolute;
+    left: 40px;
+    top: 170px;
+    width: 15px;
+}
+.p3{
+    position: absolute;
+    left: 40px;
+    top: 220px;
+}
+.p4{
+    position: absolute;
+    left: 40px;
+    top: 290px;
+}
+.p5{
+    position: absolute;
+    left: 40px;
+}
+.search{
+    position: absolute;
+    left: 40px;
+    height: 7%;
+    width: 12%;
+}
+.submit{
+    position: absolute;
+    left: 40px;
+    top: 500px;
+    width: 12%;
+}
+nav ul li{
+    text-decoration: none;
+    list-style-type: none;
+    padding: 9px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+.a{
+    position: absolute;
+    left: 40px;  
+}
+.a li{
+    padding: 9px;
+}
+.b li{
+    padding: 9px;  
+}
+.b{
+    position: absolute;
+    left: 40px;  
+}
+h1{
+    position: absolute;
+    left: 450px;
+    top: 20px;
+}
+h2{
+    position: absolute;
+    left: 540px;
+    top: 50px;
+}
+.photo{
+    position: absolute;
+    top: 120px;
+    right: 40px;
+    width: 70%;
+    height: 480px;
+}
+.p6{
+    position: absolute;
+    top: 620px;
+    right: 40px;
+    width: 70%;
+    height: 480px;
+    text-align: justify;
+}
+h3{
+    position: absolute;
+    top: 810px;
+    right: 40px;
+    left: 500px;
+    font-size: 30px;
+}
+.photo2{
+    position: absolute;
+    right: 40px;
+    width: 70%;
+    top: 890px;
+}
+.lien{
+    border: 1px solid black;
+    position: absolute;
+    top: 1400px;
+      
+}
+

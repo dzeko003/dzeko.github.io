@@ -1,0 +1,93 @@
+header{
+    height: 150px;
+    /* border:1px solid #606060; */
+    background-color: #463d40;
+    color:white;
+}
+header nav{
+    background-color: #3c3839;
+    height: 50px;
+}
+nav ul li{
+    display: inline-block;
+    padding: 0px;
+    text-decoration: none;
+    list-style-type: none;
+    margin-right: -5px;
+    text-align: center;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 8px;
+}
+nav ul li:hover a{
+    background-color: tomato;
+}
+nav ul{
+    padding: 0px;
+    line-height: 2s;
+}
+.active{
+    background-color: tomato;
+}
+header > div{
+    background-color:  #463d40;
+    height: 100px;
+}
+.logo{
+    border-radius: 33px;
+    width: 75px;
+    height: 75px;
+    background-color: #fff;
+    margin-top: 15px;
+       
+}
+header .alignement .titre h2{
+    margin-top: 25px
+}
+.logo,.titre{
+    display: inline-block;
+}
+.alignement{
+    width: 50%;
+    /* border: 1px solid #ffffff; */
+    margin-left: 25%;
+}
+.titre{
+    /* border: 1px solid #ffffff; */
+    width: 250px;
+}
+.titre p{
+    font-size: 8px;
+    margin-top: -15px;
+   
+}
+section{
+    height: auto;
+    /* border: 1px solid #181818; */
+
+}
+footer{
+    height: 90px;
+    border: 1px solid #254787;
+}
+section .alignement{
+    background-color: white;
+    height: 650px;
+    border: 1px solid black;
+    margin-top: -200px;
+    display: inline-block;
+}
+.bg{
+    margin-top: 15px;
+    background-color: red;
+    height: 400px;
+}
+.aside{
+    border: 1px solid black;
+    width: 15%;
+    height: 450px;
+    display: inline-block;
+}

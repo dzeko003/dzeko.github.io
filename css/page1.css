@@ -1,0 +1,132 @@
+body{
+    background-color: black;
+    height: 1700px;
+}
+.toto{
+    font-size: 15px;
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+    /* border: 1px solid red; */
+    width: 60%; 
+    height:90px;
+}
+h1{
+    position: absolute;
+    left: 17%;
+    top: 3%;
+}
+figcaption{
+    position: absolute;
+    left: 18%;
+    top: 10%;
+}
+#logo{
+    position: absolute;
+    left: 1%;
+    top: 1px;
+}
+/* Debut menu */
+nav ul li a{
+    text-decoration: none;
+    color: white;
+   
+}
+nav ul li {
+    text-decoration: none;
+    display: inline-block;
+    list-style-type: none;
+    padding: 7px 40px ;  
+}
+nav ul li:hover a{
+    background-color: blue;
+}
+/* Fin menu */
+header > h1{
+        text-align: right;
+        margin-top:30px;
+        
+        width: 20%
+}
+#logo{
+    margin-top: 25px;
+    margin-left:90px;
+
+    /* margin: 20px; */
+}
+.section{
+    color:white;
+   
+}
+section > h2{
+    /* border: 1px solid red; */
+    width: 30%;
+    text-align: right;
+}
+.footer{
+    color: white;
+}
+.one{
+    background-color: white;
+    /* position: absolute;
+    top:120%;
+    left:10%;
+    width:20%;
+    height:50%; */
+
+}
+ .two{
+    background-color: white;
+   
+}
+.three{
+    background-color: white;
+} 
+.one,.two,.three{
+    display: inline-block;
+    vertical-align: top;
+    margin:5px;
+    width: 30%; 
+    height: 250px;
+}
+.big{
+    position:absolute;
+    left: 5%;
+    /* border: 1px solid red ; */
+    width: 60%;
+}
+.mama{
+
+    position:absolute;
+    left: 5%;
+    /* border: 1px solid red ; */
+    width: 20%;
+    position: absolute;
+    left: 70%;
+    width: 250px;
+    height: 360px;
+    top: 100%;
+   
+
+}
+.droite{
+    background-color: rgba(247, 6, 6, 0.452);
+    color: white;
+    width: 250px;
+    height: 360px;
+    position: absolute;
+}
+h4{
+    /* border: 1px solid red; */
+    left: 15px;
+    width: 28%;
+    height: 40px;
+    font-size: 22px;
+    text-align: right;
+}
+.lien{
+    border: 1px solid black;
+    position: absolute;
+    top: 1380px;
+    
+}
